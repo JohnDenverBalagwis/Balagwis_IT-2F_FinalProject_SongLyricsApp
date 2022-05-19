@@ -77,7 +77,7 @@
                 <nav class="nav nav-masthead justify-content-center float-md-end">
                     <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php">Home</a>
                     <a class="nav-link fw-bold py-1 px-0" href="lyrics.php">Top Lyrics</a>
-                    <a class="nav-link fw-bold py-1 px-0" href="#">Sign In</a>
+                    <a class="nav-link fw-bold py-1 px-0" href="signin.php">Sign In</a>
                 </nav>
             </div>
         </header>
