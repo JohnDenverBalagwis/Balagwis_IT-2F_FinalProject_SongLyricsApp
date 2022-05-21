@@ -25,8 +25,7 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
     // Username and password match
     elseif ($_POST['username'] == $username && $_POST['password'] == $password) {
         $_SESSION['username'] = $username;
-        $_SESSION['address'] = $address;
-        $_SESSION['name'] = $name;
+
         header('Location: signin.php?success');
     }
 
