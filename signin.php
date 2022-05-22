@@ -155,10 +155,11 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
 
                                 ?>
 
-                                <label for="username">Username</label>
-                                <input type="text" class="form-control" name="username" placeholder="Enter username">
+
                             </div>
                             <div class="form-group">
+                                <label for="username">Username</label>
+                                <input type="text" class="form-control" name="username" placeholder="Enter username">
                                 <label for="password">Password</label>
                                 <a href="#" style="float:right;font-size:12px;">Forgot password?</a>
                                 <input type="password" class="form-control" name="password"
