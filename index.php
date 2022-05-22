@@ -3,6 +3,11 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="description" content="Web app using Php ">
+    <meta name="author" content="John Denver Balagwis">
+    <meta name="author" content="Arvin Rioflorido">
+    <meta name="author" content="Rochelle Motol">
+    <meta name="application-name" content="Lyrixmatch">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Home</title>
 
