@@ -84,8 +84,6 @@
                     echo "Spare the sympathy <br>";
                     echo "Everybody wants to be <br>";                  
                     echo "My enemy (look, look, look, look) <br>";
-                    echo "Na, na-na <br>";
-                    echo "More than life <br>";
                     echo "(Look out for yourself) <br>";                   
                     echo "My enemy (look, look, look, look) <br>";
                     echo "(Look out for yourself) <br><br>";   
