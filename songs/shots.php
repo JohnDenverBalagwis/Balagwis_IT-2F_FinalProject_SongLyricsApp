@@ -51,7 +51,8 @@
             <div class="row">
 
                 <?php
-                    echo "Youngblood thinks there's always tomorrow <br><br>";
+                    echo "I'm sorry for everything <br><br>";
+                    echo "Oh, everything I've done <br><br>";
                     
                     echo "Am I out of touch? Am I out of my place? <br>";
                     echo "When I keep saying that I'm looking for an empty space <br>";       
