@@ -78,7 +78,6 @@
                     echo "I'll settle for the ghost of you <br>";
                     echo "I miss you more than life (more than life), yeah <br>";
                     echo "And if you can't be next to me <br>";
-                    echo "I'm in love with your body <br>";
                     echo "Your memory is ecstasy (oh) <br>";
                     echo "I miss you more than life <br>";
                     echo "I miss you more than life <br><br>";
