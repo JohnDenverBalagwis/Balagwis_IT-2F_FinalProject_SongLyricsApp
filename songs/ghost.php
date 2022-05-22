@@ -46,7 +46,6 @@
     <div class="p-3 text-center">
         <h1 class="fw-bold">Ghost</h1>
         <p>Song by Justin Bieber</p>
-        <button class="btn-sm btn btn-success " type="submit" id="button">Play</button>
     </div>
 
     <div class="container ">
@@ -100,23 +99,7 @@
             </div>
         </div>
     </div>
-    <audio id="player">
-        <source src='mp3\Justin Bieber - Ghost.mp3' />
-    </audio>
-    <script>
-    var button = document.getElementById("button");
-    var audio = document.getElementById("player");
 
-    button.addEventListener("click", function() {
-        if (audio.paused) {
-            audio.play();
-            button.innerHTML = "Pause";
-        } else {
-            audio.pause();
-            button.innerHTML = "Play";
-        }
-    });
-    </script>
 </body>
 
 </html>
