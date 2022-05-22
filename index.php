@@ -86,7 +86,7 @@
             <h1>Enhancing the experience of music worldwide.</h1><br>
             <p class="lead">Making music better, together</p>
             <p class="lead">
-                <a href="#" class="btn btn-md btn-secondary fw-bold border-white bg-white">Get in Touch</a>
+                <a href="#" class="btn btn-md btn-secondary fw-bold border-white bg-white">Get the app</a>
             </p>
         </main>
 
