@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE Lyrixmatch
+[
+
+
+
+<!ELEMENT Lyrixmatch (home, topLyrics, signin)>
+<!ELEMENT home (#PCDATA)>
+<!ELEMENT topLyrics (#PCDATA)>
+<!ELEMENT signin (#PCDATA)>
+
+]>
+<Lyrixmatch>
+    <home>
+        <title>Lyrixmatch</title>
+        <heading>Enhancing the experience of music worldwide.</heading>
+        <subheading>Making music better, together</subheading>
+        <button>Get the app</button>
+    </home>
+    <topLyrics>
+        <songList>
+            <song1>
+                <title>Wake Me Up</title>
+                <artists>
+                    <artist>Avicii</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Feeling my way through the darkness</line>
+                        <line>Guided by a beating heart  </line>
+                        <line>I can't tell where the journey will end </line>
+                        <line>But I know where to start</line>
+                        <line>They tell me I'm too young to understand</line>
+                        <line>They say I'm caught up in a dream</line>
+                        <line>They say I'm caught up in a dream</line>
+                        <line>Well that's fine by me </line>
+                    </stanza>
+                    <stanza>
+                        <line>So wake me up when it's all over</line>
+                        <line>When I'm wiser and I'm older </line>
+                        <line>All this time I was finding myself, and I </line>
+                        <line>Didn't know I was lost </line>
+                    </stanza>
+                    <stanza>
+                        <line>So wake me up when it's all over</line>
+                        <line>When I'm wiser and I'm older </line>
+                        <line>All this time I was finding myself, and I </line>
+                        <line>Didn't know I was lost </line>
+                    </stanza>
+                    <stanza>
+                        <line>I tried carrying the weight of the world</line>
+                        <line>But I only have two hands </line>
+                        <line>Hope I get the chance to travel the world</line>
+                        <line>But I don't have any plans </line>
+                        <line>Wish that I could stay forever this young</line>
+                        <line>Not afraid to close my eyes</line>
+                        <line>Life's a game made for everyone </line>
+                        <line>And love is a prize </line>
+                    </stanza>
+                    <stanza>
+                        <line>So wake me up when it's all over</line>
+                        <line>When I'm wiser and I'm older </line>
+                        <line>All this time I was finding myself, and I </line>
+                        <line>Didn't know I was lost </line>
+                    </stanza>
+                    <stanza>
+                        <line>So wake me up when it's all over</line>
+                        <line>When I'm wiser and I'm older </line>
+                        <line>All this time I was finding myself, and I </line>
+                        <line>Didn't know I was lost </line>
+                    </stanza>
+                    <stanza>
+                        <line>I didn't know I was lost </line>
+                        <line>I didn't know I was lost </line>
+                        <line>I didn't know I was lost </line>
+                        <line>I didn't know</line>
+                    </stanza>
+                </lyrics>
+            </song1>
+            <song2>
+                <title>Light Switch</title>
+                <artists>
+                    <artist>Charlie Puth</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Why you callin' at 11:30</line>
+                        <line>When you only wanna do me dirty? </line>
+                        <line>But I hit right back 'cause you got that, that, yeah </line>
+                    </stanza>
+                    <stanza>
+                        <line>Why you always wanna act like lovers</line>
+                        <line>But you never wanna be each other's?  </line>
+                        <line>I say, "Don't look back" but I go right back and</line>
+                    </stanza>
+                    <stanza>
+                        <line>All of a sudden, I'm hypnotized</line>
+                        <line>You're the one that I can't deny </line>
+                        <line>Every time that I say I'm gonna walk away  </line>
+                    </stanza>
+                    <stanza>
+                        <line>You turn me on like a light switch </line>
+                        <line>When you're movin' your body around and around </line>
+                        <line>Now, I don't wanna fight this (no)</line>
+                        <line>You know how to just make me want  </line>
+                    </stanza>
+                    <stanza>
+                        <line>You turn me on like a light switch </line>
+                        <line>When you're movin' your body around and around </line>
+                        <line>Now, I don't wanna fight this (yeah)</line>
+                        <line>You know how to just make me want  </line>
+                    </stanza>
+                    <stanza>
+                        <line>Do you love it when you keep me guessin'? (Me guessin')</line>
+                        <line>When you leave, and then you leave me stressin' (me stressin') </line>
+                        <line>But I can't stay mad when you walk like that, no (uh) </line>
+                    </stanza>
+                    <stanza>
+                        <line>Why you always wanna act like lovers </line>
+                        <line>But you never wanna be each other's? </line>
+                        <line>But I can't stay mad when you walk like that, no (uh) </line>
+                    </stanza>
+                    <stanza>
+                        <line>All of a sudden, I'm hypnotized (hypnotized) </line>
+                        <line>You're the one that I can't deny (can't deny) </line>
+                        <line>Every time that I say I'm gonna walk away (yeah) </line>
+                    </stanza>
+                    <stanza>
+                        <line>You turn me on like a light switch </line>
+                        <line>When you're movin' your body around and around </line>
+                        <line>Now, I don't wanna fight this (no)</line>
+                        <line>You know how to just make me want  </line>
+                    </stanza>
+                    <stanza>
+                        <line>You turn me on like a light switch (switch)</line>
+                        <line>When you're movin' your body around and around </line>
+                        <line>You got me in a tight grip (grip)</line>
+                        <line>You know how to just make me want you, baby  </line>
+                    </stanza>
+                    <stanza>
+                        <line>C'mon, c'mon, c'mon, c'mon</line>
+                        <line>C'mon and show me how you do (you do) </line>
+                        <line>You want, you want, you want, you want</line>
+                        <line>You wanna keep me wantin' you </line>
+                    </stanza>
+                    <stanza>
+                        <line>C'mon, c'mon, c'mon, c'mon</line>
+                        <line>C'mon and show me how you do (you do) </line>
+                        <line>You want, you want, you want, you want</line>
+                        <line>You wanna keep me wantin' you </line>
+                    </stanza>
+                    <stanza>
+                        <line>You turn me on like a light switch </line>
+                        <line>When you're movin' your body around and around </line>
+                        <line>Now, I don't wanna fight this </line>
+                        <line>You know how to just make me want  </line>
+                    </stanza>
+                    <stanza>
+                        <line>You turn me on like a light switch (switch)</line>
+                        <line>When you're movin' your body around and around </line>
+                        <line>You got me in a tight grip</line>
+                        <line>You know how to just make me want you, baby  </line>
+                    </stanza>
+                    <stanza>
+                        <line>C'mon, c'mon, c'mon, c'mon</line>
+                        <line>C'mon and show me how you do (you do) </line>
+                        <line>You want, you want, you want, you want</line>
+                        <line>You wanna keep me wantin' you (baby) </line>
+                        <line>C'mon, c'mon, c'mon, c'mon</line>
+                        <line>C'mon and show me how you do (you do) </line>
+                        <line>You want, you want, you want, you want</line>
+                        <line>You wanna keep me wantin' you (baby) </line>
+                    </stanza>
+                </lyrics>
+            </song2>
+            <song3>
+                <title>Over You</title>
+                <artists>
+                    <artist>Daughtry</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Now that it's all said and done</line>
+                        <line>I can't believe you were the one  </line>
+                        <line>To build me up and tear me down</line>
+                        <line>Like an old abandoned house</line>
+                        <line>And what you said when you left </line>
+                        <line>Just left me cold and out of breath</line>
+                        <line>I fell too far, was in way too deep</line>
+                        <line>Guess I let you get the best of me </line>
+                    </stanza>
+                    <stanza>
+                        <line>Well, I never saw it coming</line>
+                        <line>I should've started running </line>
+                        <line>A long long time ago </line>
+                        <line>And I never thought to doubt you, I'm better off without you  </line>
+                        <line>More than you, more than you know</line>
+                        <line>I'm slowly getting closure, I guess it's really over </line>
+                        <line>I'm finally getting better </line>
+                        <line>And now I'm picking up the pieces and spending all of these years</line>
+                        <line>Putting my heart back together 'cause </line>
+                        <line>The day I thought I'd never get through </line>
+                        <line>I got over you</line>
+                        <line>You took a hammer to these walls </line>
+                        <line>Dragged the memories down the hall </line>
+                        <line>Packed your bags and walked away </line>
+                        <line>There was nothing I could say  </line>
+                        <line>And when you slammed the front door shut</line>
+                    </stanza>
+                    <stanza>
+                        <line>A lot of others opened up, so did my eyes, so I could see</line>
+                    </stanza>
+                    <stanza>
+                        <line>That you never were the best for me</line>
+                        <line>Well, I never saw it coming </line>
+                        <line>I should've started running a long long time ago </line>
+                        <line>And I never thought to doubt you, I'm better off without you  </line>
+                        <line>More than you, more than you know</line>
+                        <line>I'm slowly getting closure,  </line>
+                        <line>I guess it's really over I'm finally getting better</line>
+                    </stanza>
+                    <stanza>
+                        <line>Now, I'm picking up the pieces and spending all of these years</line>
+                        <line>Putting my heart back together 'cause </line>
+                        <line>The day I thought I'd never get through</line>
+                    </stanza>
+                    <stanza>
+                        <line>I got over you</line>
+                        <line>Well, I never saw it coming  </line>
+                        <line>I should've started running a long long time ago </line>
+                        <line>And I never thought to doubt you </line>
+                        <line>I'm better off without you, more than you, more than you know</line>
+                        <line>Well, I never saw it coming </line>
+                        <line>I should've started running a long long time ago </line>
+                        <line>And I never thought to doubt you </line>
+                        <line>"I'm better off without you, more than you, more than you know</line>
+                        <line>I'm slowly getting closure </line>
+                        <line>I guess it's really over, I'm finally getting better </line>
+                    </stanza>
+                    <stanza>
+                        <line>Now, I'm picking up the pieces and spending all of these years </line>
+                        <line>Putting my heart back together</line>
+                        <line>I'm putting my heart back together </line>
+                        <line>'Cause I got over you </line>
+                        <line>'Cause I got over you</line>
+                        <line>I got over you </line>
+                        <line>'Cause the day I thought I'd never get through  </line>
+                        <line>I got over you  </line>
+                    </stanza>
+                </lyrics>
+            </song3>
+            <song4>
+                <title>What About Now</title>
+                <artists>
+                    <artist>Daughtry</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Shadows fill an empty heart</line>
+                        <line>As love is fading  </line>
+                        <line>From all the things that we are </line>
+                        <line>Are not saying</line>
+                        <line>Can we see beyond the scars </line>
+                    </stanza>
+                    <stanza>
+                        <line>Change the colors of the sky </line>
+                        <line>And open up to</line>
+                        <line>The ways you made me feel alive </line>
+                        <line>The ways I loved you</line>
+                        <line>For all the things that never died </line>
+                        <line>To make it through the night </line>
+                        <line>Love will find you </line>
+                    </stanza>
+                    <stanza>
+                        <line>What about now?</line>
+                        <line>What about today?  </line>
+                        <line>What if you're making me all that I was meant to be? </line>
+                        <line>What if our love never went away? </line>
+                        <line>What if it's lost behind words we could never find?</line>
+                        <line>Baby, before it's too late  </line>
+                        <line>What about now?</line>
+                    </stanza>
+                    <stanza>
+                        <line>The sun is breaking in your eyes</line>
+                        <line>To start a new day </line>
+                        <line>This broken heart can still survive</line>
+                        <line>With a touch of your grace </line>
+                        <line>Wish that I could stay forever this young</line>
+                        <line>As shadows fade into the light</line>
+                        <line>I am by your side </line>
+                        <line>Where love will find you</line>
+                    </stanza>
+                    <stanza>
+                        <line>What about now?</line>
+                        <line>What about today? </line>
+                        <line>What if you're making me all that I was meant to be? </line>
+                        <line>What if our love never went away? </line>
+                        <line>What if it's lost behind words we could never find? </line>
+                        <line>Baby, before it's too late </line>
+                        <line>What about now? </line>
+                    </stanza>
+                    <stanza>
+                        <line>Now that we're here</line>
+                        <line>Now that we've come this far </line>
+                        <line>Just hold on</line>
+                        <line>There is nothing to fear </line>
+                        <line>For I am right beside you</line>
+                        <line>For all my life </line>
+                        <line>I am yours</line>
+                    </stanza>
+                    <stanza>
+                        <line>What about now?</line>
+                        <line>What about today? </line>
+                        <line>What if you're making me all that I was meant to be? </line>
+                        <line>What if our love never went away? </line>
+                        <line>What if it's lost behind words we could never find? </line>
+                        <line>What if you're making me all that I was meant to be? </line>
+                        <line>What if our love never went away? </line>
+                        <line>What if it's lost behind words we could never find? </line>
+                    </stanza>
+                    <stanza>
+                        <line>Baby, before it's too late </line>
+                        <line>Baby, before it's too late </line>
+                        <line>Baby, before it's too late </line>
+                        <line>What about now?</line>
+                    </stanza>
+                </lyrics>
+            </song4>
+            <song5>
+                <title>Castle on the Hill</title>
+                <artists>
+                    <artist>Ed Sheeran</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>When I was six years old, I broke my leg</line>
+                        <line>I was running from my brother and his friends  </line>
+                        <line>And tasted the sweet perfume of the mountain grass I rolled down </line>
+                        <line>I was younger then, take me back to when I </line>
+                    </stanza>
+                    <stanza>
+                        <line>Found my heart and broke it here </line>
+                        <line>Made friends and lost them through the years</line>
+                        <line>And I've not seen the roaring fields in so long </line>
+                        <line>I know I've grown, but I can't wait to go home</line>
+                    </stanza>
+                    <stanza>
+                        <line>I'm on my way</line>
+                        <line>Driving at 90 down those country lanes </line>
+                        <line>Singing to Tiny Dancer </line>
+                        <line>And I miss the way you make me feel, and it's real</line>
+                        <line>When we watched the sunset over the castle on the hill</line>
+                    </stanza>
+                    <stanza>
+                        <line>Fifteen years old and smoking hand-rolled cigarettes</line>
+                        <line>Running from the law through the backfields and </line>
+                        <line>Getting drunk with my friends</line>
+                        <line>Had my first kiss on a Friday night</line>
+                        <line>I don't reckon that I did it right, but</line>
+                    </stanza>
+                    <stanza>
+                        <line>I was younger then, take me back to when</line>
+                        <line>We found weekend jobs, when we got paid </line>
+                        <line>We'd buy cheap spirits and drink them straight </line>
+                        <line>Me and my friends have not thrown up in so long </line>
+                        <line>Oh, how we've grown, but I can't wait to go home </line>
+                    </stanza>
+                    <stanza>
+                        <line>I'm on my way</line>
+                        <line>Driving at 90 down those country lanes </line>
+                        <line>Singing to Tiny Dancer </line>
+                        <line>And I miss the way you make me feel, and it's real</line>
+                        <line>When we watched the sunset over the castle on the hill</line>
+                        <line>Over the castle on the hill</line>
+                        <line>Over the castle on the hill </line>
+                    </stanza>
+                    <stanza>
+                        <line>One friend left to sell clothes</line>
+                        <line>One works down by the coast</line>
+                        <line>One had two kids, but lives alone</line>
+                        <line>One's brother overdosed </line>
+                        <line>One's already on his second wife</line>
+                        <line>One's just barely getting by, but</line>
+                        <line>These people raised me</line>
+                        <line>And I can't wait to go home</line>
+                    </stanza>
+                    <stanza>
+                        <line>And I'm on my way</line>
+                        <line>I still remember these old country lanes</line>
+                        <line>When we did not know the answers </line>
+                        <line>And I miss the way you make me feel, and it's real</line>
+                        <line>When we watched the sunset over the castle on the hill</line>
+                        <line>Over the castle on the hill</line>
+                        <line>Over the castle on the hill </line>
+                    </stanza>
+                </lyrics>
+            </song5>
+            <song6>
+                <title>Overpass Graffiti</title>
+                <artists>
+                    <artist>Ed Sheeran</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>This is a dark parade</line>
+                        <line>Another rough patch to rain on, to rain on </line>
+                        <line>I know your friends may say </line>
+                    </stanza>
+                    <stanza>
+                        <line>This is a cause for celebration, hip-hip-hooray, love </line>
+                        <line>Photographs in sepia tones </line>
+                        <line>It's so still, the fire's barely fighting the cold, alone </line>
+                        <line>There are times when I can feel your ghost</line>
+                        <line>Just when I'm almost letting you go </line>
+                        <line>The cards were stacked against us both</line>
+                    </stanza>
+                    <stanza>
+                        <line>I will always love you for what it's worth</line>
+                        <line>We'll never fade like graffiti on the overpass </line>
+                        <line>And I know time may change the way you think of us </line>
+                        <line>But I'll remember the way we were, you were the first full stop</line>
+                        <line>Love that will never leave</line>
+                        <line>Baby, you will never be lost on me</line>
+                    </stanza>
+                    <stanza>
+                        <line>This is a goddamn shame</line>
+                        <line>I never wanted to break it, or leave us tainted </line>
+                        <line>Know I should walk away</line>
+                        <line>But I just can't replace us, or even erase us </line>
+                        <line>The car was stuck, the engine stalled</line>
+                        <line>And both of us got caught out in the snow, alone</line>
+                        <line>There were times when I forget the lows </line>
+                        <line>And think the highs were all that we'd ever known</line>
+                        <line>The cards were stacked against us both</line>
+                    </stanza>
+                    <stanza>
+                        <line>I will always love you for what it's worth</line>
+                        <line>We'll never fade like graffiti on the overpass </line>
+                        <line>And I know time may change the way you think of us </line>
+                        <line>But I'll remember the way we were, you were the first full stop  </line>
+                        <line>Love that will never leave</line>
+                        <line>Baby, you will never be lost on me </line>
+                    </stanza>
+                    <stanza>
+                        <line>Lost on me</line>
+                        <line>Baby, you will never be lost on me </line>
+                        <line>Lost on me </line>
+                    </stanza>
+                    <stanza>
+                        <line>Well, I will always love you for what it's worth</line>
+                        <line>We'll never fade like graffiti on the overpass </line>
+                        <line>And I know time may change the way you think of us </line>
+                        <line>But I'll remember the way we were, you were the first full stop</line>
+                        <line>Love that will never leave</line>
+                        <line>Baby, you will never be lost on me</line>
+                    </stanza>
+                    <stanza>
+                        <line>Well, I will always love you for what it's worth</line>
+                        <line>We'll never fade like graffiti on the overpass</line>
+                        <line>And I know time may change the way you think of us</line>
+                        <line>But I'll remember the way we were, you were the first full stop </line>
+                        <line>Love that will never leave</line>
+                        <line>Baby, you will never be lost on me</line>
+                    </stanza>
+                    <stanza>
+                        <line>Yeah, yeah, yeah</line>
+                        <line>Yeah, yeah, yeah</line>
+                        <line>Lost on me </line>
+                        <line>Ooh, graffiti on the overpass</line>
+                    </stanza>
+                </lyrics>
+            </song6>
+            <song7>
+                <title>Glass Animals</title>
+                <artists>
+                    <artist>Glass Animals</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Road shimmer</line>
+                        <line>Wiggling the vision </line>
+                        <line>Heat heat waves</line>
+                        <line>I'm swimming in a mirror</line>
+                    </stanza>
+                    <stanza>
+                        <line>Road shimmer</line>
+                        <line>Wiggling the vision </line>
+                        <line>Heat heat waves</line>
+                        <line>I'm swimming in a </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>Usually I put </line>
+                        <line>Something on TV </line>
+                        <line>So we never think  </line>
+                        <line>About you and me</line>
+                    </stanza>
+                    <stanza>
+                        <line>But today I see</line>
+                        <line>Our reflections</line>
+                        <line>Clearly in Hollywood </line>
+                        <line>Laying on the screen</line>
+                    </stanza>
+                    <stanza>
+                        <line>You just need a better life than this</line>
+                        <line>You need something I can never give</line>
+                        <line>Fake water all across the road</line>
+                        <line>It's gone now, the night has come, but </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>You can't fight it</line>
+                        <line>You can't breathe </line>
+                        <line>You say something so loving, but </line>
+                        <line>Now I've got to let you go  </line>
+                        <line>You'll be better off in someone new</line>
+                        <line>I don't wanna be alone </line>
+                        <line>You know it hurts me too </line>
+                    </stanza>
+                    <stanza>
+                        <line>You look so broken when you cry</line>
+                        <line>One more and then I'll say goodbye </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>I just wonder what you're dreaming of</line>
+                        <line>When you sleep and smile so comfortable </line>
+                        <line>I just wish that I could give you that </line>
+                        <line>That look that's perfectly un-sad </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sometimes, all I think about is you </line>
+                        <line>Late nights in the middle of June </line>
+                        <line>Heat waves been faking me out </line>
+                        <line>Can't make you happier now </line>
+                    </stanza>
+                    <stanza>
+                        <line>Road shimmer</line>
+                        <line>Wiggling the vision </line>
+                        <line>Heat heat waves</line>
+                        <line>I'm swimming in a mirror</line>
+                    </stanza>
+                    <stanza>
+                        <line>Road shimmer</line>
+                        <line>Wiggling the vision </line>
+                        <line>Heat heat waves</line>
+                        <line>I'm swimming in a </line>
+                    </stanza>
+                </lyrics>
+            </song7>
+            <song8>
+                <title>Stereo Hearts</title>
+                <artists>
+                    <artist>Gym Class Heroes</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>My heart's a stereo</line>
+                        <line>It beats for you, so listen close </line>
+                        <line>Hear my thoughts in every no-ote</line>
+                        <line>Make me your radio</line>
+                        <line>And turn me up when you feel low (turn it up a little bit) </line>
+                        <line>This melody was meant for you (right there) </line>
+                        <line>Just sing along to my stereo (Gym Class Hero, baby)</line>
+                    </stanza>
+                    <stanza>
+                        <line>If I was just another dusty record on the shelf</line>
+                        <line>Would you blow me off and play me like everybody else? </line>
+                        <line>If I asked you to scratch my back, could you manage that?</line>
+                        <line>Like it yikky yeah, check it Travie, I can handle that</line>
+                    </stanza>
+                    <stanza>
+                        <line>Furthermore, I apologize for any skipping tracks </line>
+                        <line>It's just the last girl that played me left a couple cracks </line>
+                        <line>I used to, used to, used to, used to, now I'm over that </line>
+                        <line>Cause holding grudges over love is ancient artifacts  </line>
+                    </stanza>
+                    <stanza>
+                        <line>If I could only find a note to make you understand  </line>
+                        <line>I'd sing it softly in your ear and grab you by the hand </line>
+                        <line>Just keep it stuck inside your head, like your favorite tune </line>
+                        <line>And know my hearts a stereo that only plays for you</line>
+                    </stanza>
+                    <stanza>
+                        <line>My heart's a stereo</line>
+                        <line>It beats for you, so listen close </line>
+                        <line>Hear my thoughts in every no-ote</line>
+                        <line>Make me your radio</line>
+                        <line>And turn me up when you feel low</line>
+                        <line>This melody was meant for you</line>
+                        <line>Just sing along to my stereo</line>
+                    </stanza>
+                    <stanza>
+                        <line>to my stereo  </line>
+                        <line>(Oh, oh-oh, oh) just sing along to my stereo</line>
+                        <line>Let's go!</line>
+                    </stanza>
+                    <stanza>
+                        <line>If I was an old-school, fifty-pound boombox (remember them?)</line>
+                        <line>Would you hold me on your shoulder, wherever you walk?</line>
+                        <line>Would you turn my volume up in front of the cops?</line>
+                        <line>And crank it higher every time they told you to stop</line>
+                    </stanza>
+                    <stanza>
+                        <line>And all I ask is that you don't get mad at me</line>
+                        <line>When you have to purchase mad D batteries</line>
+                        <line>Appreciate every mixtape your friends make</line>
+                        <line>You never know, we come and go like on the interstate (never know)</line>
+                    </stanza>
+                    <stanza>
+                        <line>I think I finally found a note to make you understand</line>
+                        <line>If you can hit it, sing along and take me by the hand</line>
+                        <line>Just keep me stuck inside your head, like your favorite tune</line>
+                        <line>You know my heart's a stereo that only plays for you</line>
+                    </stanza>
+                    <stanza>
+                        <line>My heart's a stereo</line>
+                        <line>It beats for you, so listen close (listen)</line>
+                        <line>Hear my thoughts in every no-ote</line>
+                        <line>Make me your radio (come on)</line>
+                        <line>And turn me up when you feel low (turn it up)</line>
+                        <line>This melody was meant for you</line>
+                        <line>Just sing along to my stereo (sing along like)</line>
+                    </stanza>
+                    <stanza>
+                        <line>to my stereo  </line>
+                        <line>(Oh, oh-oh, oh) just sing along to my stereo</line>
+                    </stanza>
+                    <stanza>
+                        <line>I only pray you'll never leave me behind (never leave me)</line>
+                        <line>Because good music can be so hard to find (so hard to find)</line>
+                        <line>I take your hand and pull it closer to mine (yeah)</line>
+                        <line>Thought love was dead, but now you're changing my mind</line>
+                    </stanza>
+                    <stanza>
+                        <line>My heart's a stereo</line>
+                        <line>It beats for you, so listen close</line>
+                        <line>Hear my thoughts in every no-ote</line>
+                        <line>Make me your radio (come on)</line>
+                        <line>And turn me up when you feel low</line>
+                        <line>This melody was meant for you</line>
+                        <line>Just sing along to my stereo</line>
+                    </stanza>
+                </lyrics>
+            </song8>
+            <song9>
+                <title>Birds</title>
+                <artists>
+                    <artist>Imagine Dragons</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Two hearts, one valve</line>
+                        <line>Pumpin' the blood, we were the flood </line>
+                        <line>We were the body and</line>
+                        <line>Two lives, one life </line>
+                        <line>Stickin' it out, lettin' you down</line>
+                        <line>Makin' it right</line>
+                    </stanza>
+                    <stanza>
+                        <line>Seasons, they will change</line>
+                        <line>Life will make you grow </line>
+                        <line>Dreams will make you cry, cry, cry</line>
+                        <line>Everything is temporary </line>
+                        <line>Everything will slide</line>
+                        <line>Love will never die, die, die</line>
+                    </stanza>
+                    <stanza>
+                        <line>I know that ooh, birds fly in different directions </line>
+                        <line>Ooh, I hope to see you again </line>
+                    </stanza>
+                    <stanza>
+                        <line>Sunsets, sunrises </line>
+                        <line>Livin' the dream, watchin' the leaves </line>
+                        <line>Changin' the seasons </line>
+                        <line>Some nights I think of you </line>
+                        <line>Relivin' the past, wishin' it'd last </line>
+                        <line>Wishin' and dreamin' </line>
+                    </stanza>
+                    <stanza>
+                        <line>Seasons, they will change</line>
+                        <line>Life will make you grow </line>
+                        <line>Dreams will make you cry, cry, cry</line>
+                        <line>Everything is temporary </line>
+                        <line>Everything will slide</line>
+                        <line>Love will never die, die, die</line>
+                    </stanza>
+                    <stanza>
+                        <line>I know that ooh, birds fly in different directions </line>
+                        <line>Ooh, I hope to see you again </line>
+                        <line>Ooh, birds fly in every direction </line>
+                        <line>Ooh, so fly high, so fly high </line>
+                    </stanza>
+                    <stanza>
+                        <line>When the moon is lookin' down </line>
+                        <line>Shinin' light upon your ground </line>
+                        <line>I'm flyin' up to let you see </line>
+                        <line>That the shadow cast is me </line>
+                    </stanza>
+                    <stanza>
+                        <line>I know that ooh, birds fly in different directions </line>
+                        <line>Ooh, I hope to see you again </line>
+                        <line>Ooh, birds fly in every direction </line>
+                        <line>Ooh, so fly high, so fly high </line>
+                        <line>Ooh, so fly high, so fly high </line>
+                        <line>Ooh, so fly high, so fly high </line>
+                    </stanza>
+                </lyrics>
+            </song9>
+            <song10>
+                <title>Demons</title>
+                <artists>
+                    <artist>Imagine Dragons</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>When the days are cold</line>
+                        <line>And the cards all fold</line>
+                        <line>And the saints we see </line>
+                        <line>Are all made of gold </line>
+                        <line>When your dreams all fail</line>
+                        <line>And the ones we hail</line>
+                        <line>Are the worst of all</line>
+                        <line>And the blood's run stale</line>
+                    </stanza>
+                    <stanza>
+                        <line>When you feel my heat</line>
+                        <line>Look into my eyes  </line>
+                        <line>It's where my demons hide</line>
+                        <line>It's where my demons hide </line>
+                        <line>Don't get too close</line>
+                        <line>It's dark inside</line>
+                        <line>It's where my demons hide</line>
+                        <line>It's where my demons hide </line>
+                    </stanza>
+                    <stanza>
+                        <line>At the curtain's call</line>
+                        <line>It's the last of all</line>
+                        <line>When the lights fade out </line>
+                        <line>All the sinners crawl</line>
+                        <line>So they dug your grave</line>
+                        <line>And the masquerade</line>
+                        <line>Will come calling out</line>
+                        <line>At the mess you've made</line>
+                    </stanza>
+                    <stanza>
+                        <line>Don't wanna let you down</line>
+                        <line>But I am hell-bound</line>
+                        <line>Though this is all for you</line>
+                        <line>Don't wanna hide the truth</line>
+                        <line>No matter what we breed</line>
+                        <line>We still are made of greed</line>
+                        <line>This is my kingdom come</line>
+                        <line>This is my kingdom come</line>
+                    </stanza>
+                    <stanza>
+                        <line>When you feel my heat</line>
+                        <line>Look into my eyes  </line>
+                        <line>It's where my demons hide</line>
+                        <line>It's where my demons hide </line>
+                        <line>Don't get too close</line>
+                        <line>It's dark inside</line>
+                        <line>It's where my demons hide</line>
+                        <line>It's where my demons hide </line>
+                    </stanza>
+                    <stanza>
+                        <line>They say it's what you make </line>
+                        <line>I say it's up to fate</line>
+                        <line>It's woven in my soul</line>
+                        <line>I need to let you go</line>
+                        <line>Your eyes, they shine so bright</line>
+                        <line>I wanna save that light</line>
+                        <line>I can't escape this now</line>
+                        <line>Unless you show me how</line>
+                    </stanza>
+                    <stanza>
+                        <line>When you feel my heat</line>
+                        <line>Look into my eyes  </line>
+                        <line>It's where my demons hide</line>
+                        <line>It's where my demons hide </line>
+                        <line>Don't get too close</line>
+                        <line>It's dark inside</line>
+                        <line>It's where my demons hide</line>
+                        <line>It's where my demons hide </line>
+                    </stanza>
+                </lyrics>
+            </song10>
+            <song11>
+                <title>Whatever it takes</title>
+                <artists>
+                    <artist>Imagine Dragons</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Falling too fast to prepare for this</line>
+                        <line>Tripping in the world could be dangerous</line>
+                        <line>Everybody circling, it's vulturous </line>
+                        <line>Negative, nepotist</line>
+                    </stanza>
+                    <stanza>
+                        <line>Everybody waiting for the fall of man</line>
+                        <line>Everybody praying for the end of times</line>
+                        <line>Everybody hoping they could be the one</line>
+                        <line>I was born to run, I was born for this</line>
+                    </stanza>
+                    <stanza>
+                        <line>Whip, whip</line>
+                        <line>Run me like a racehorse</line>
+                        <line>Pull me like a ripcord</line>
+                        <line>Break me down and build me up </line>
+                        <line>I wanna be the slip, slip</line>
+                        <line>Word upon your lip, lip</line>
+                        <line>Letter that you rip, rip</line>
+                        <line>Break me down and build me up </line>
+                    </stanza>
+                    <stanza>
+                        <line>Whatever it takes</line>
+                        <line>'Cause I love the adrenaline in my veins</line>
+                        <line>I do what it takes</line>
+                        <line>'Cause I love how it feels when I break the chains</line>
+                        <line>Whatever it takes </line>
+                        <line>Yeah, take me to the top I'm ready for </line>
+                        <line>Whatever it takes</line>
+                        <line>'Cause I love the adrenaline in my veins</line>
+                        <line>I do what it takes</line>
+                    </stanza>
+                    <stanza>
+                        <line>Always had a fear of being typical</line>
+                        <line>Looking at my body feeling miserable</line>
+                        <line>Always hanging on to the visual</line>
+                        <line>I wanna be invisible</line>
+                    </stanza>
+                    <stanza>
+                        <line>Looking at my years like a martyrdom</line>
+                        <line>Everybody needs to be a part of 'em</line>
+                        <line>Never be enough, I'm the prodigal son</line>
+                        <line>I was born to run, I was born for this </line>
+                    </stanza>
+                    <stanza>
+                        <line>Whip, whip</line>
+                        <line>Run me like a racehorse</line>
+                        <line>Pull me like a ripcord</line>
+                        <line>Break me down and build me up </line>
+                        <line>I wanna be the slip, slip</line>
+                        <line>Word upon your lip, lip</line>
+                        <line>Letter that you rip, rip</line>
+                        <line>Break me down and build me up </line>
+                    </stanza>
+                    <stanza>
+                        <line>Whatever it takes</line>
+                        <line>'Cause I love the adrenaline in my veins</line>
+                        <line>I do what it takes</line>
+                        <line>'Cause I love how it feels when I break the chains</line>
+                        <line>Whatever it takes </line>
+                        <line>Yeah, take me to the top I'm ready for </line>
+                        <line>Whatever it takes</line>
+                        <line>'Cause I love the adrenaline in my veins</line>
+                        <line>I do what it takes</line>
+                    </stanza>
+                    <stanza>
+                        <line>Hypocritical, egotistical</line>
+                        <line>Don't wanna be the parenthetical, hypothetical </line>
+                        <line>Working onto something that I'm proud of, out of the box</line>
+                        <line>An epoxy to the world and the vision we've lost</line>
+                        <line>I'm an apostrophe</line>
+                        <line>I'm just a symbol to remind you that there's more to see </line>
+                        <line>I'm just a product of the system, a catastrophe</line>
+                        <line>And when I am deceased</line>
+                        <line>At least I go down to the grave and die happily</line>
+                        <line>Leave the body and my soul to be a part of thee</line>
+                        <line>I do what it takes</line>
+                    </stanza>
+                    <stanza>
+                        <line>Whatever it takes</line>
+                        <line>'Cause I love the adrenaline in my veins</line>
+                        <line>I do what it takes</line>
+                        <line>'Cause I love how it feels when I break the chains</line>
+                        <line>Whatever it takes </line>
+                        <line>Yeah, take me to the top I'm ready for </line>
+                        <line>Whatever it takes</line>
+                        <line>'Cause I love the adrenaline in my veins</line>
+                        <line>I do what it takes</line>
+                    </stanza>
+                </lyrics>
+            </song11>
+            <song12>
+                <title>Enemy</title>
+                <artists>
+                    <artist>Imagine Dragons</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Look out for yourself</line>
+                    </stanza>
+                    <stanza>
+                        <line>I wake up to the sounds of the silence that allows</line>
+                        <line>For my mind to run around with my ear up to the ground</line>
+                        <line>I'm searching to behold the stories that are told</line>
+                        <line>When my back is to the world that was smiling when I turned</line>
+                    </stanza>
+                    <stanza>
+                        <line>Tell you you're the greatest</line>
+                        <line>But once you turn, they hate us</line>
+                    </stanza>
+                    <stanza>
+                        <line>Oh, the misery</line>
+                        <line>Everybody wants to be my enemy</line>
+                        <line>Spare the sympathy </line>
+                        <line>Spare the sympathy</line>
+                        <line>Everybody wants to be my enemy</line>
+                        <line>(Look out for yourself)</line>
+                        <line>My enemy (look, look, look, look)</line>
+                        <line>(Look out for yourself) (woo)</line>
+                        <line>But I'm ready</line>
+                    </stanza>
+                    <stanza>
+                        <line>Your words up on the wall as you're praying for my fall </line>
+                        <line>And the laughter in the halls and the names that I've been called </line>
+                        <line>I stack it in my mind and I'm waiting for the time </line>
+                        <line>When I show you what it's like to be words spit in a mic </line>
+                    </stanza>
+                    <stanza>
+                        <line>Tell you you're the greatest </line>
+                        <line>But once you turn, they hate us (huh) </line>
+                    </stanza>
+                    <stanza>
+                        <line>Oh, the misery</line>
+                        <line>Everybody wants to be my enemy</line>
+                        <line>Spare the sympathy</line>
+                        <line>Everybody wants to be</line>
+                        <line>My enemy (look, look, look, look)</line>
+                        <line>(Look out for yourself) (woo)</line>
+                        <line>My enemy (look, look, look, look)</line>
+                        <line>(Look out for yourself)</line>
+                    </stanza>
+                    <stanza>
+                        <line>Uh, look </line>
+                        <line>Okay, I'm hoping that somebody pray for me </line>
+                        <line>I'm praying that somebody hope for me</line>
+                        <line>I'm staying where nobody 'posed to be</line>
+                        <line>P-P-Posted, being a wreck of emotions</line>
+                        <line>Ready to go whenever, just let me know</line>
+                        <line>The road is long, so put the pedal into the floor</line>
+                        <line>The enemy on my trail, my energy unavailable</line>
+                        <line>I'ma tell "em hasta luego"</line>
+                    </stanza>
+                    <stanza>
+                        <line>They wanna plot on my trot to the top</line>
+                        <line>I've been outta shape, thinkin' out the box, I'm an astronaut</line>
+                        <line>I blasted off the planet rock to cause catastrophe</line>
+                        <line>And it matters more because I had it not </line>
+                        <line>Had I thought about wreaking havoc on an opposition</line>
+                        <line>Kinda shocking they wanted static with precision, I'm automatic </line>
+                        <line>Quarterback, I ain't talkin' sacking</line>
+                        <line>Pack it, pack it up, I don't panic</line>
+                        <line>Batter, batter up, who the baddest?</line>
+                        <line>It don't matter 'cause we at your throat</line>
+                    </stanza>
+                    <stanza>
+                        <line>Everybody wants to be my enemy </line>
+                        <line>Spare the sympathy </line>
+                        <line>Everybody wants to be</line>
+                        <line>My enemy </line>
+                    </stanza>
+                    <stanza>
+                        <line>Oh, the misery</line>
+                        <line>Everybody wants to be my enemy </line>
+                        <line>Spare the sympathy </line>
+                        <line>Everybody wants to be my enemy</line>
+                    </stanza>
+                    <stanza>
+                        <line>Pray it away, I swear </line>
+                        <line>I'll never be a saint, no way </line>
+                        <line>My enemy</line>
+                        <line>Pray it away, I swear</line>
+                        <line>I'll never be a saint </line>
+                        <line>Look out for yourself</line>
+                    </stanza>
+                </lyrics>
+            </song12>
+            <song13>
+                <title>Shots</title>
+                <artists>
+                    <artist>Imagine Dragons</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>I'm sorry for everything </line>
+                        <line>Oh, everything I've done</line>
+                    </stanza>
+                    <stanza>
+                        <line>Am I out of touch? Am I out of my place? </line>
+                        <line>When I keep saying that I'm looking for an empty space</line>
+                        <line>Oh, I'm wishin' you're here but I'm wishin' you're gone </line>
+                        <line>I can't have you and I'm only gonna do you wrong</line>
+                    </stanza>
+                    <stanza>
+                        <line>Oh, I'm gonna mess this up </line>
+                        <line>Oh, this is just my luck </line>
+                        <line>Over and over and over again</line>
+                    </stanza>
+                    <stanza>
+                        <line>I'm sorry for everything, oh, everything I've done</line>
+                        <line>From the second that I was born, it seems I have a loaded gun</line>
+                        <line>And then I shot, shot, shot a hole through everything I loved</line>
+                        <line>Oh, I shot, shot, shot a hole through every single thing that I loved </line>
+                    </stanza>
+                    <stanza>
+                        <line>Am I out of luck? Am I waiting to break?</line>
+                        <line>When I keep saying that I'm looking for a way to escape</line>
+                        <line>Oh, I'm wishing I had what I'd taken for granted</line>
+                        <line>I can't have you when I'm only gonna do you wrong </line>
+                    </stanza>
+                    <stanza>
+                        <line>Oh, I'm gonna mess this up </line>
+                        <line>Oh, this is just my luck </line>
+                        <line>Over and over and over again</line>
+                    </stanza>
+                    <stanza>
+                        <line>I'm sorry for everything, oh, everything I've done</line>
+                        <line>From the second that I was born, it seems I have a loaded gun</line>
+                        <line>And then I shot, shot, shot a hole through everything I loved</line>
+                        <line>Oh, I shot, shot, shot a hole through every single thing that I loved </line>
+                    </stanza>
+                    <stanza>
+                        <line>In the meantime, we let it go </line>
+                        <line>At the roadside we used to know</line>
+                        <line>We can let this drift away</line>
+                        <line>Oh, we let this drift away</line>
+                    </stanza>
+                    <stanza>
+                        <line>At the bay side, we used to show</line>
+                        <line>In the moonlight, we let it go</line>
+                        <line>We can let this drift away</line>
+                        <line>Oh, we let this drift away</line>
+                    </stanza>
+                    <stanza>
+                        <line>And there's always time to change your mind </line>
+                        <line>Oh, there's always time to change your mind</line>
+                        <line>Oh, love, can you hear me? </line>
+                        <line>Oh, let it drift away </line>
+                    </stanza>
+                    <stanza>
+                        <line>I'm sorry for everything, oh, everything I've done</line>
+                        <line>From the second that I was born, it seems I have a loaded gun</line>
+                        <line>And then I shot, shot, shot a hole through everything I loved</line>
+                        <line>Oh, I shot, shot, shot a hole through every single thing that I loved </line>
+                    </stanza>
+                    <stanza>
+                        <line>In the meantime, we let it go </line>
+                        <line>At the roadside we used to know</line>
+                        <line>We can let this drift away</line>
+                        <line>Oh, we let this drift away</line>
+                    </stanza>
+                    <stanza>
+                        <line>At the bay side, we used to show</line>
+                        <line>In the moonlight, we let it go</line>
+                        <line>We can let this drift away</line>
+                        <line>Oh, we let this drift away</line>
+                    </stanza>
+                    <stanza>
+                        <line>And there's always time to change your mind </line>
+                        <line>Oh, there's always time to change your mind</line>
+                        <line>Oh, love, can you hear me? </line>
+                        <line>Oh, let it drift away </line>
+                    </stanza>
+                </lyrics>
+            </song13>
+            <song14>
+                <title>Ghost</title>
+                <artists>
+                    <artist>Justin Beiber</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Youngblood thinks there's always tomorrow</line>
+                        <line>I miss your touch on nights when I'm hollow</line>
+                        <line>I know you crossed a bridge that I can't follow</line>
+                        <line>Since the love that you left is all that I get </line>
+                        <line>I want you to know</line>
+                    </stanza>
+                    <stanza>
+                        <line>That if I can't be close to you  </line>
+                        <line>I'll settle for the ghost of you </line>
+                        <line>I miss you more than life (more than life)</line>
+                        <line>And if you can't be next to me</line>
+                        <line>Your memory is ecstasy</line>
+                        <line>I miss you more than life</line>
+                        <line>I miss you more than life</line>
+                    </stanza>
+                    <stanza>
+                        <line>Youngblood thinks there's always tomorrow (woo) </line>
+                        <line>I need more time but time can't be borrowed</line>
+                        <line>I'd leave it all behind if I could follow</line>
+                        <line>Since the love that you left is all that I get</line>
+                        <line>I want you to know</line>
+                    </stanza>
+                    <stanza>
+                        <line>That if I can't be close to you  </line>
+                        <line>I'll settle for the ghost of you </line>
+                        <line>I miss you more than life (more than life)</line>
+                        <line>And if you can't be next to me</line>
+                        <line>Your memory is ecstasy</line>
+                        <line>I miss you more than life</line>
+                        <line>I miss you more than life</line>
+                    </stanza>
+                    <stanza>
+                        <line>Whoa </line>
+                        <line>Na, na-na </line>
+                        <line>More than life</line>
+                        <line>Oh</line>
+                    </stanza>
+                    <stanza>
+                        <line>That if I can't be close to you  </line>
+                        <line>I'll settle for the ghost of you </line>
+                        <line>I miss you more than life (more than life)</line>
+                        <line>And if you can't be next to me</line>
+                        <line>Your memory is ecstasy</line>
+                        <line>I miss you more than life</line>
+                        <line>I miss you more than life</line>
+                    </stanza>
+                </lyrics>
+            </song14>
+            <song15>
+                <title>INDUSTRY BABY</title>
+                <artists>
+                    <artist>Lil Nas X</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Baby back, ayy</line>
+                        <line>Couple racks, ayy</line>
+                        <line>Couple Grammys on him</line>
+                        <line>Couple plaques, ayy</line>
+                        <line>That's a fact, ayy</line>
+                        <line>Throw it back, ayy</line>
+                        <line>Throw it back, ayy </line>
+                    </stanza>
+                    <stanza>
+                        <line>And this one is for the champions</line>
+                        <line>I ain't lost since I began, yeah </line>
+                        <line>Funny how you said it was the end, yeah </line>
+                        <line>Then I went did it again, yeah</line>
+                    </stanza>
+                    <stanza>
+                        <line>I told you long ago, on the road</line>
+                        <line>I got what they waitin' for</line>
+                        <line>I don't run from nothin', dog</line>
+                        <line>Get your soldiers, tell 'em I ain't layin' low </line>
+                        <line>You was never really rootin' for me anyway</line>
+                        <line>When I'm back up at the top I wanna hear you say</line>
+                        <line>He don't run from nothin', dog</line>
+                        <line>Get your soldiers, tell 'em that the break is over</line>
+                    </stanza>
+                    <stanza>
+                        <line>Uh, need to, uh </line>
+                        <line>Need to get this album done </line>
+                        <line>Need a couple number ones </line>
+                        <line>Need a plaque on every song</line>
+                        <line>Need me like one with Nicki now</line>
+                        <line>Tell a rap nigga, "I don't see ya", ha</line>
+                        <line>I'm a pop nigga like Bieber, ha</line>
+                        <line>I don't fuck bitches, I'm queer, ha </line>
+                        <line>But these niggas bitches like Madea  </line>
+                        <line>Yeah, yeah, yeah (yeah) </line>
+                        <line>Ayy, oh, let's do it</line>
+                        <line>I ain't fall off, I just ain't release my new shit </line>
+                        <line>I blew up now everybody tryna sue me</line>
+                        <line>You call me Nas, but the hood call me Doobie, yeah</line>
+                    </stanza>
+                    <stanza>
+                        <line>And this one is for the champions</line>
+                        <line>I ain't lost since I began, yeah </line>
+                        <line>Funny how you said it was the end, yeah </line>
+                        <line>Then I went did it again, yeah</line>
+                    </stanza>
+                    <stanza>
+                        <line>I told you long ago, on the road</line>
+                        <line>I got what they waitin' for (I got what they waitin' for)</line>
+                        <line>I don't run from nothin', dog</line>
+                        <line>Get your soldiers, tell 'em I ain't layin' low </line>
+                        <line>You was never really rootin' for me anyway (like, ooh-ooh)</line>
+                        <line>When I'm back up at the top I wanna hear you say (like, ooh-ooh)</line>
+                        <line>He don't run from nothin', dog</line>
+                        <line>Get your soldiers, tell 'em that the break is over</line>
+                    </stanza>
+                    <stanza>
+                        <line>My track record so clean</line>
+                        <line>They couldn't wait to just bash me</line>
+                        <line>I must be gettin' too flashy</line>
+                        <line>Y'all shouldn't have let the world gas me (woo)</line>
+                        <line>It's too late 'cause I'm here to stay </line>
+                        <line>And these girls know that I'm nasty (mm)</line>
+                        <line>I sent her back to her boyfriend </line>
+                        <line>With my handprint on her ass cheek</line>
+                        <line>City talkin', we takin' notes</line>
+                        <line>Tell 'em all to keep makin' posts</line>
+                        <line>Wish he could but he can't get close</line>
+                        <line>OG so proud of me that he chokin' up while he makin' toasts</line>
+                        <line>I'm the type that you can't control</line>
+                        <line>Said I would then I made it so (so)</line>
+                        <line>I don't clear up rumors (ayy)</line>
+                        <line>Where's y'all sense of humor? (Ayy)</line>
+                        <line>I'm done makin' jokes 'cause they got old like baby boomers</line>
+                        <line>Turn my haters to consumers</line>
+                        <line>I make vets feel like they juniors (juniors)</line>
+                        <line>Say your time is comin' soon but just like Oklahoma (mm) </line>
+                        <line>Mine is comin' sooner (mm)</line>
+                        <line>I'm just a late bloomer (mm)</line>
+                        <line>I didn't peak in high school, I'm still out here gettin' cuter (woo) </line>
+                        <line>All these social networks and computers</line>
+                        <line>Got these pussies walkin' 'round like they ain't losers (losers)</line>
+                    </stanza>
+                    <stanza>
+                        <line>I told you long ago, on the road</line>
+                        <line>I got what they waitin' for (I got what they waitin' for)</line>
+                        <line>I don't run from nothin', dog</line>
+                        <line>Get your soldiers, tell 'em I ain't layin' low</line>
+                        <line>(Bitch, I ain't runnin' from no one) </line>
+                        <line>You was never really rootin' for me anyway (like, ooh-ooh)</line>
+                        <line>When I'm back up at the top I wanna hear you say (like, ooh-ooh)</line>
+                        <line>He don't run from nothin', dog</line>
+                        <line>Get your soldiers, tell 'em that the break is over</line>
+                    </stanza>
+                    <stanza>
+                        <line>Yeah </line>
+                        <line>I'm the industry baby, mm</line>
+                        <line>I'm the industry baby</line>
+                        <line>Yeah</line>
+                    </stanza>
+                </lyrics>
+            </song15>
+            <song16>
+                <title>Dusk Till Dawn</title>
+                <artists>
+                    <artist>ZAYN</artist>
+                    <artist>Sia</artist>
+                </artists>
+                <lyrics>
+                    <stanza>
+                        <line>Not tryna be indie</line>
+                        <line>Not tryna be cool</line>
+                        <line>Just tryna be in this </line>
+                        <line>Tell me, are you too?</line>
+                        <line>Can you feel where the wind is?</line>
+                        <line>Can you feel it through</line>
+                        <line>All of the windows </line>
+                        <line>Inside this room? </line>
+                    </stanza>
+                    <stanza>
+                        <line>'Cause I wanna touch you baby</line>
+                        <line>And I wanna feel you too</line>
+                        <line>I wanna see the sun rise  </line>
+                        <line>On your sins just me and you </line>
+                    </stanza>
+                    <stanza>
+                        <line>Light it up, on the run</line>
+                        <line>Let's make love tonight </line>
+                        <line>Make it up, fall in love, try </line>
+                    </stanza>
+                    <stanza>
+                        <line>Baby, I am right here</line>
+                    </stanza>
+                    <stanza>
+                        <line>But you'll never be alone</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here  </line>
+                        <line>I'll hold you when things go wrong</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here  </line>
+                    </stanza>
+                    <stanza>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here</line>
+                    </stanza>
+                    <stanza>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here</line>
+                    </stanza>
+                    <stanza>
+                        <line>You don't know me </line>
+                    </stanza>
+                    <stanza>
+                        <line>We were shut like a jacket</line>
+                        <line>So do your zip </line>
+                        <line>We would roll down the rapids </line>
+                        <line>To find a wave that fits</line>
+                        <line>Can you feel where the wind is?</line>
+                        <line>Can you feel it through</line>
+                        <line>All of the windows </line>
+                        <line>Inside this room? </line>
+                    </stanza>
+                    <stanza>
+                        <line>'Cause I wanna touch you baby</line>
+                        <line>And I wanna feel you too</line>
+                        <line>I wanna see the sun rise  </line>
+                        <line>On your sins just me and you </line>
+                    </stanza>
+                    <stanza>
+                        <line>Light it up, on the run</line>
+                        <line>Let's make love tonight</line>
+                        <line>Make it up, fall in love, try </line>
+                    </stanza>
+                    <stanza>
+                        <line>On your sins just me and you</line>
+                    </stanza>
+                    <stanza>
+                        <line>But you'll never be alone</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here  </line>
+                        <line>I'll hold you when things go wrong</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here  </line>
+                    </stanza>
+                    <stanza>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here </line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here  </line>
+                    </stanza>
+                    <stanza>
+                        <line>Girl, give love to your body</line>
+                        <line>It's only you that can stop it</line>
+                        <line>Girl, give love to your body</line>
+                        <line>It's only you that can stop it</line>
+                    </stanza>
+                    <stanza>
+                        <line>Girl, give love to your body</line>
+                        <line>It's only you that can stop it</line>
+                        <line>Girl, give love to your body</line>
+                        <line>It's only you that can stop it</line>
+                    </stanza>
+                    <stanza>
+                        <line>But you'll never be alone</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here  </line>
+                        <line>I'll hold you when things go wrong</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here  </line>
+                    </stanza>
+                    <stanza>
+                        <line>I'll be with you from dusk till dawn</line>
+                        <line>Baby, I am right here </line>
+                    </stanza>
+                </lyrics>
+            </song16>
+        </songList>
+    </topLyrics>
+    <signin>
+        <form>
+            <inputUsername>Enter username:</inputUsername>
+            <inputPassword>Enter password:</inputPassword>
+            <button>Sign in</button>
+        </form>
+    </signin>
+</Lyrixmatch>
