@@ -79,6 +79,66 @@
             /*here put anything you want for mobile size*/
         }
     }
+
+    @media (max-width: 716px) {
+
+        .container1,
+        .btn-sm {
+            font-size: 14px;
+
+            /*here put anything you want for mobile size*/
+        }
+    }
+
+    @media (max-width: 794px) {
+
+        .container1,
+        .btn-sm {
+            font-size: 14px;
+
+            /*here put anything you want for mobile size*/
+        }
+    }
+
+    @media (max-width: 988px) {
+
+        .container1,
+        .btn-sm {
+            font-size: 14px;
+
+            /*here put anything you want for mobile size*/
+        }
+    }
+
+    @media (max-width: 970px) {
+
+        .container1,
+        .btn-sm {
+            font-size: 14px;
+
+            /*here put anything you want for mobile size*/
+        }
+    }
+
+    @media (max-width: 980px) {
+
+        .container1,
+        .btn-sm {
+            font-size: 14px;
+
+            /*here put anything you want for mobile size*/
+        }
+    }
+
+    @media (max-width: 988px) {
+
+        .container1,
+        .btn-sm {
+            font-size: 14px;
+
+            /*here put anything you want for mobile size*/
+        }
+    }
     </style>
 
 
